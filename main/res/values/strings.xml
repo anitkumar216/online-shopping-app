@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Your Shop</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="rupee">\u20B9</string>
+
+    <string name="action_settings">Settings</string>
+</resources>

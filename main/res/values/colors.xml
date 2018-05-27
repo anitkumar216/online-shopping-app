@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#a01076dc</color>
+    <color name="colorPrimaryDark">#b61076dc</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="overlayBackground">#b7479bef</color>
+    <color name="overlayActionBar">#a61076dc</color>
+</resources>
